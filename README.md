@@ -10,12 +10,12 @@
 
 <h2 align="center">About Me</h2>
 
-<h3 align="center">👨🏾‍💻 I’m currently working on...</h2>
+<h3>👨🏾‍💻 I’m currently working on...</h3>
 <ul>
   <li>📕 Migrating a project from <a href="https://github.com/storybookjs/storybook">Storybook</a> v5 to v6</li>
 </ul>
 
-<h3 align="center">😄 Things I Like...</h2>
+<h3>😄 Things I Like...</h3>
 <ul>
   <li>👨🏾‍💻 Frontend development</li>
   <li>🧔🏾 Dad jokes</li>
@@ -28,13 +28,37 @@
   <li>💖 Being fabulous</li>
 </ul>
 
-<h3 align="center">🥱 Things I'm Happy To Do Without...</h2>
+<h3>🥱 Things I'm Happy To Do Without...</h3>
 <ul>
   <li>👎🏾🤮 Systemic oppression</li>
   <li>😒 Puns/jokes about my name</li>
   <li>🔥 Internet Explorer</li>
   <li>🦟 Mosquitoes (I can't believe there's actually a mosquito emoji...)</li>
 </ul>
+
+<h3>👨🏾‍💻 🌎 Open Source Contributions</h3>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/testing-library/dom-testing-library">
+        <div align="center"><img src="https://github.com/testing-library/dom-testing-library/blob/master/other/octopus.png?raw=true" alt="Testing Library logo" width="200" height="200"></div>
+        <div align="center">DOM Testing Library</div>
+     </a>
+   </td>
+   <td align="center">
+      <a href="https://github.com/storybookjs/storybook">
+        <div align="center"><img src="https://github.com/storybookjs/brand/blob/master/logo/logo-storybook-default.png?raw=true" alt="Storybook logo" width="200"></div>
+        <div align="center">Storybook</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MoveOnOrg/Spoke">
+        <div align="center"><img src="https://images.squarespace-cdn.com/content/v1/5783159f9f74568e00209d13/1513871810866-I3FW4OHLESQZ1VVQMFBP/ke17ZwdGBToddI8pDm48kMRyhYDgPk9y7GMUxyVGe-RZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzoPHppnmNwl3TJcatNy7Guep7qP-wNjXM-6rVCPo3NX5PuHDDAzCDFVJ9rfhLFRLA/image_uploaded_from_ios_720.png" alt="Spoke logo" width="200" height="200"></div>
+        <div align="center">Spoke</div>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!--
 

@@ -2,7 +2,7 @@
 
 <img src="https://github.com/winterlamon/my-files/blob/master/bw-winter-hero-desktop.png?raw=true" alt="" width="100%">
 
-<p align="center">I’m a Brooklyn, NY-based web developer who’s enthusiastic about diversity, equity, and inclusion, empathy, accessibility, and contributing to the greater good. I believe that the internet should be for <em>everyone</em>, so it should be built by a diverse population with accessibility in mind.</p>
+<p align="center">I’m a Brooklyn, NY-based UX developer who’s enthusiastic about diversity, equity, and inclusion, empathy, accessibility, and contributing to the greater good. I believe that the internet should be for <em>everyone</em>, so it should be built by a diverse population with accessibility in mind.</p>
 
 <p align="center">💁🏾‍♂️ <strong>Pronouns:</strong><em>&nbsp;he/him/his, they/them/theirs</em></p>
 

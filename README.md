@@ -12,7 +12,7 @@
 
 <h3>👨🏾‍💻 I’m currently working on...</h3>
 <ul>
-  <li>📕 Migrating a project from <a href="https://github.com/storybookjs/storybook">Storybook</a> v5 to v6</li>
+  <li>💖 Making the web a more accessible place</li>
 </ul>
 
 <h3>😄 Things I Like...</h3>
@@ -41,7 +41,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/testing-library/dom-testing-library">
-        <div align="center"><img src="https://github.com/testing-library/dom-testing-library/blob/master/other/octopus.png?raw=true" alt="Testing Library logo" width="200" height="200"></div>
+        <div align="center"><img src="https://raw.githubusercontent.com/testing-library/dom-testing-library/master/other/octopus.png" alt="Testing Library logo" width="100" height="100"></div>
         <div align="center">DOM Testing Library</div>
      </a>
    </td>

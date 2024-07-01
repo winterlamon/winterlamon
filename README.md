@@ -13,8 +13,8 @@
 
 ### 👨🏾‍💻 I’m currently working on...
 
-- 💖 Making the web a more accessible place
-- Building marketing and product experiences at [Shopify](https://www.shopify.com/)
+- 💖 Contributing to making the web a more accessible place
+- Building experiences at [Figma](https://www.figma.com/)
 
 ### 😄 Things I Like...
 
